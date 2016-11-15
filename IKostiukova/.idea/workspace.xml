@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2321fb99-20e6-42fe-a9a0-6f753f7c2c63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ciklum/com/Main.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/build/classes/main/com/ciklum/workshops/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/settings.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testLessons/src/main/java/com/ciklum/workshops/Main.java" afterPath="" />
-    </list>
+    <list default="true" id="2321fb99-20e6-42fe-a9a0-6f753f7c2c63" name="Default" comment="" />
     <ignored path="AutomationWorkshops.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -764,7 +753,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
