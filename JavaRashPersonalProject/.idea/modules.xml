@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaRashPersonalProject.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaRashPersonalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaRashPersonalProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaRashPersonalProject_main.iml" group="JavaRashPersonalProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaRashPersonalProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaRashPersonalProject_test.iml" group="JavaRashPersonalProject" />
+    </modules>
+  </component>
+</project>
